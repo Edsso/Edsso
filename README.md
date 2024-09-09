@@ -6,6 +6,6 @@ Hi! I'm Edson Sartori, a passionate web development enthusiast and Computer Scie
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,nodejs)](https://skillicons.dev)
 
 ## Other Skills 🪐
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,github,mysql,unity,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,vscode,github,mysql,unity,robloxstudio)](https://skillicons.dev)
 
 ## My Stats 🔥
