@@ -15,6 +15,8 @@ Hi! I'm Edson Sartori, a passionate web and software development enthusiast and 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edsso&layout=compact&theme=tokyonight">
 </div> 
 
+##
+
 <div>
   
   ![Snake animation](https://github.com/Edsso/Edsso/blob/main/github-grid-snake.svg)
