@@ -16,5 +16,7 @@ Hi! I'm Edson Sartori, a passionate web and software development enthusiast and 
 </div> 
 
 <div>
+  
   ![Snake animation](https://github.com/Edsso/Edsso/blob/main/github-grid-snake.svg)
+  
 </div>
