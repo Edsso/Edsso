@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=920&height=50&lines=Specialist+Consultant+%7C+Software+Architecture;Distributed+Systems+%7C+Cloud-Native+%7C+AWS;Generative+AI+%7C+RAG+%7C+Production+Agents;Let%27s+connect+%7C+Remote+%7C+International+teams" alt="Developer - Architecture and production IA"/>
+  <img src="" alt="Developer - Architecture and production IA"/>
 </a>
 
 <br/>
