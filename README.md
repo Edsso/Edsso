@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://github.com/Edsso">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050816,45:312E81,100:06B6D4&height=280&section=header&text=DOUGLAS%20MORAIS&fontSize=62&fontColor=F8FAFC&fontAlignY=34&desc=SPECIALIST%20CONSULTANT%20%C2%B7%20LET%27S%20CONNECT&descAlignY=56&descSize=18&animation=twinkling" width="100%" alt="Edson Junior — Developer - Web and IA"/>
+  <img src="" width="100%" alt="Edson Junior — Developer - Web and IA"/>
 </a>
 
 <a href="https://readme-typing-svg.demolab.com">
