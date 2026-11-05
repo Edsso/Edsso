@@ -6,11 +6,11 @@
 <div align="center">
 
 <a href="https://github.com/Edsso">
-  <img src="" width="100%" alt="Edson Junior — Developer - Web and IA"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050816,45:312E81,100:06B6D4&height=280&section=header&text=EDSON%20JUNIOR&fontSize=62&fontColor=F8FAFC&fontAlignY=34&desc=DEVELOPER%20%C2%B7%20LET%27S%20CONNECT&descAlignY=56&descSize=18&animation=twinkling" width="100%" alt="Edson Junior — Developer - Web and IA"/>
 </a>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="" alt="Developer - Architecture and production IA"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=920&height=50&lines=Developer+%7C+Software+Architecture;Generative+AI+%7C+RAG+%7C+Production+Agents;Let%27s+connect" alt="Developer - Architecture and production IA"/>
 </a>
 
 <br/>
@@ -24,8 +24,6 @@
 </a>
 
 ---
-
-## Hi there 👋
 
 Hi! I'm Edson Junior, a Computer Science student at <a href="https://www.univali.br/">Univali</a> (expected graduation in 2027) and a developer, passionate about web and software development. Since 2023, I have been studying programming and building projects with Python, TypeScript, React, Node.js, FastAPI, Docker and SQL databases.
 
